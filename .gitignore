@@ -1,0 +1,7 @@
+Account.txt
+pwds.txt
+venv
+.idea
+__pycache__
+scp
+Deploy.py
